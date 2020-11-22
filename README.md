@@ -31,4 +31,4 @@ Explanation of each independent features
 7.	Inspection of Clusters using Principal Component Analysis 
 8.  Generation of Clusters using AutoEncoders
 # Conclusion
-Optimal number of cluster is found by applying K-means Algorithm with elbow-method, and applied K-Means k=8 number of clusters. I have also tried autoencoders to cluster customers using encoded data with 10 features by dividing customers into four distinctive groups.   
+Optimal number of cluster is found by applying K-means Algorithm with elbow-method, and applied K-Means k=8 number of clusters. I have also tried autoencoders to cluster customers using encoded data with 10 features and divided customers into four distinctive groups.   
